@@ -1,0 +1,2 @@
+# FaceRecognition_register
+人脸识别，通过计算目标签到签退时间统计目标在指定区域的停留时间，结果以CSV按日保存
